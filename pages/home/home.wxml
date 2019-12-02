@@ -1,0 +1,6 @@
+<button bind:tap="showToast" size="mini" >showToast</button>
+<button bind:tap="showModal" size="mini" >showModal</button>
+<button bind:tap="showLoading" size="mini" >showLoading</button>
+<button bind:tap="showActionSheet" size="mini" >showActionSheet</button>
+
+<button open-type="share" >分享</button>
